@@ -1,1 +1,1 @@
-print("Welcome to DevOps!! v5.1.0")
+print("Hello Ali. Welcome to DevOps Journey. v6.0.0")
